@@ -1,12 +1,12 @@
 {  
    "Matchs":[  
       {  
-         "Equipe1":"السنغال",
-         "Equipe2":"بنين",
-         "Equipe1_Logo":"http://www.yalla-shoot.com/images/upload/images/1377539726.png",
-         "Equipe2_Logo":"http://www.yalla-shoot.com/images/upload/images/1377540085.png",
-         "Heure":"16:00",
-         "Competition":"https://www.ruedesjoueurs.com/images/landing/coupe-du-monde-feminine-2019/logo-can-2019-final.png"
+         Equipe1 :"السنغال",
+         Equipe2 :"بنين",
+         Equipe1_Logo :"http://www.yalla-shoot.com/images/upload/images/1377539726.png",
+         Equipe2_Logo :"http://www.yalla-shoot.com/images/upload/images/1377540085.png",
+         Heure :"16:00",
+         Competition :"https://www.ruedesjoueurs.com/images/landing/coupe-du-monde-feminine-2019/logo-can-2019-final.png"
       }
    ]
 }
