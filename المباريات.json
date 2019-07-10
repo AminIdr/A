@@ -6,7 +6,7 @@
          "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377539726.png",
          "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540085.png",
          "Heure" :"16:00",
-         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/1/1a/Logo-can2019.jpg"
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
       },
       
         {  
@@ -15,16 +15,7 @@
          "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540759.png",
          "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540190.png",
          "Heure" :"19:00",
-         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/1/1a/Logo-can2019.jpg"
-      },
-      
-              {  
-         "Equipe1" :"نيجيريا",
-         "Equipe2" :"جنوب إفريقيا",
-         "Equipe1_Logo" :"https://o.kooora.com/f/ng.png",
-         "Equipe2_Logo" :"https://o.kooora.com/f/za.png",
-         "Heure" :"19:00",
-         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/1/1a/Logo-can2019.jpg"
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
       }
    ]
 }
