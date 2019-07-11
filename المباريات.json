@@ -2,21 +2,31 @@
    "Matchs":[  
       {
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"السنغال",
-         "Equipe2" :"بنين",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377539726.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540085.png",
+         "Equipe1" :"ساحل العاج",
+         "Equipe2" :"الجزائر",
+         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540282.png",
+         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377539691.png",
          "Heure" :"16:00",
          "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
       },
       
         {
          "Url" :"http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8",
-         "Equipe1" :"نيجيريا",
-         "Equipe2" :"جنوب إفريقيا",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540759.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540190.png",
+         "Equipe1" :"مدغشقر",
+         "Equipe2" :"تونس",
+         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540636.png",
+         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540149.png",
          "Heure" :"19:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
+      },
+      
+       {
+         "Url" :"http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8",
+         "Equipe1" :"ترانمير روفرز",
+         "Equipe2" :"ليفربول",
+         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1499719889.png",
+         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1376917554.png",
+         "Heure" :"18:30",
          "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
       }
    ]
