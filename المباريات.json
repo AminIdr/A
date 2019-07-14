@@ -25,9 +25,9 @@
        {
          "LIVE" :"n",
          "Url" :"http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8",
-         "Equipe1" :"Barcelona",
+         "Equipe1" :"برشلونة",
          "Equipe2" :"ليفربول",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1499719889.png",
+         "Equipe1_Logo" :"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
          "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1376917554.png",
          "Heure" :"18:30",
          "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/fd/CHAN_-_Fr_-_Full_Colour.png"
