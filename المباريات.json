@@ -3,12 +3,12 @@
       {
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"دينامو دريسدين",
-         "Equipe2" :"باريس سان جيرمان",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1408352246.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377260339.png",
+         "Equipe1" :"DYNAMO DRESDE",
+         "Equipe2" :"PSG",
+         "Equipe1_Logo" :"http://images.footmercato.net/club/30x30/995.png",
+         "Equipe2_Logo" :"http://images.footmercato.net/club/30x30/886.png",
          "Heure" :"19:20",
-         "Competition" :"http://www.au-premier-poteau.fr/wp-content/uploads/2017/04/logo-FIFA.png"
+         "Competition" :"http://images.footmercato.net/competition/30x30/732.png"
       }
    ]
 }
