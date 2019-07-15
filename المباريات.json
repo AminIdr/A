@@ -3,10 +3,10 @@
       {
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"Dynamo Dresde",
-         "Equipe2" :"PSG",
-         "Equipe1_Logo" :"http://tv-sports.fr/pic/equipes/133/1255.png",
-         "Equipe2_Logo" :"http://tv-sports.fr/pic/equipes/133/1.png",
+         "Equipe1" :"دينامو دريسدين",
+         "Equipe2" :"باريس سان جيرمان",
+         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1408352246.png",
+         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377260339.png",
          "Heure" :"19:20",
          "Competition" :"http://www.au-premier-poteau.fr/wp-content/uploads/2017/04/logo-FIFA.png"
       }
