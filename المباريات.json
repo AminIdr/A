@@ -1,36 +1,14 @@
 {  
    "Matchs":[  
       {
-         "LIVE" :"y",
-         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"ساحل العاج",
-         "Equipe2" :"الجزائر",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540282.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377539691.png",
-         "Heure" :"16:00",
-         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
-      },
-      
-        {
-         "LIVE" :"m",
-         "Url" :"http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8",
-         "Equipe1" :"مدغشقر",
-         "Equipe2" :"تونس",
-         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540636.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377540149.png",
-         "Heure" :"19:00",
-         "Competition" :"http://static.onzemondial.com/article/img_evenement/img-176993.jpg"
-      },
-      
-       {
          "LIVE" :"n",
-         "Url" :"http://217.21.0.14:8081/AlfajertvHD1_web/web/playlist.m3u8",
-         "Equipe1" :"برشلونة",
-         "Equipe2" :"ليفربول",
-         "Equipe1_Logo" :"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1376917554.png",
-         "Heure" :"18:30",
-         "Competition" :"http://sport24.lefigaro.fr/bundles/figarolivescore/images/logos/football/serie-a.png"
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"دينامو دريسدين",
+         "Equipe2" :"باريس سان جيرمان",
+         "Equipe1_Logo" :"http://www.yalla-shoot.com/images/upload/images/1408352246.png",
+         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377260339.png",
+         "Heure" :"19:20",
+         "Competition" :"http://www.au-premier-poteau.fr/wp-content/uploads/2017/04/logo-FIFA.png"
       }
    ]
 }
