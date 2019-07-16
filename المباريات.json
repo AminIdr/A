@@ -4,10 +4,10 @@
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Dresde",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7017.png&h=200&w=200",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7017.png",
          
          "Equipe2" :"PSG",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=200&w=200",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png",
          
          "Heure" :"19:20",
          "Competition" :"https://www.manutd.com/AssetPicker/images/0/0/10/170/699126/Friendly-Logo-WhiteBG1528884247667.png"
