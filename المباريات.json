@@ -3,13 +3,37 @@
       {
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"Dresde",
-         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7017.png&h=200&w=200",
+         "Equipe1" :"Tunisia",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/tun.png&h=200&w=200",
          
-         "Equipe2" :"PSG",
-         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=200&w=200",
+         "Equipe2" :"Nigeria",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/nga.png&h=200&w=200",
          
-         "Heure" :"19:20",
+         "Heure" :"20:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/f/f7/CAN_-_Fr_-_Full_Colour.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"Manchester City",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&h=200&w=200",
+         
+         "Equipe2" :"West Ham United",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/371.png&h=200&w=200",
+         
+         "Heure" :"12:30",
+         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"Manchester United",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=200&w=200",
+         
+         "Equipe2" :"Leeds United",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/357.png&h=200&w=200",
+         
+         "Heure" :"00:00",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       }
    ]
