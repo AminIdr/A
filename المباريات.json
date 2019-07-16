@@ -4,13 +4,13 @@
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Dresde",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/sen.png",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7017.png&h=200&w=200",
          
          "Equipe2" :"PSG",
-         "Equipe2_Logo" :"http://www.rezofoot.com/images/photos_fiches/club_201403011837.jpg",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=200&w=200",
          
          "Heure" :"19:20",
-         "Competition" :"http://www.au-premier-poteau.fr/wp-content/uploads/2017/04/logo-FIFA.png"
+         "Competition" :"https://www.manutd.com/AssetPicker/images/0/0/10/170/699126/Friendly-Logo-WhiteBG1528884247667.png"
       }
    ]
 }
