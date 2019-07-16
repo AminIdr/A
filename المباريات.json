@@ -3,10 +3,12 @@
       {
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"دينامو دريسدين",
-         "Equipe2" :"باريس سان جيرمان",
-         "Equipe1_Logo" :"http://www.allomatch.com/images/progmatch/equipes/hd/Football/-France/-PSG.png",
-         "Equipe2_Logo" :"http://www.yalla-shoot.com/images/upload/images/1377260339.png",
+         "Equipe1" :"Dresde",
+         "Equipe1_Logo" :"http://www.rezofoot.com/images/photos_fiches/club_20190709090115.png",
+         
+         "Equipe2" :"PSG",
+         "Equipe2_Logo" :"http://www.rezofoot.com/images/photos_fiches/club_201403011837.jpg",
+         
          "Heure" :"19:20",
          "Competition" :"http://www.au-premier-poteau.fr/wp-content/uploads/2017/04/logo-FIFA.png"
       }
