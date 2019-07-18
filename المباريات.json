@@ -1,6 +1,19 @@
 {  
    "Matchs":[  
       {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"Arsenal",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=200&w=200",
+         
+         "Equipe2" :"Bayern Munich",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=200&w=200",
+         
+         "Heure" :"04:00",
+         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      
+        {
          "LIVE" :"y",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Arsenal",
