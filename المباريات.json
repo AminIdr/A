@@ -3,11 +3,35 @@
       {
          "LIVE" :"n",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
-         "Equipe1" :"Senegal",
-         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/sen.png&h=200&w=200",
+         "Equipe1" :"Juventus",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png&h=100&w=100",
          
-         "Equipe2" :"Algeria",
-         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/alg.png&h=200&w=200",
+         "Equipe2" :"Tottenham",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=100&w=100",
+         
+         "Heure" :"20:00",
+         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"Bayern Munich",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=100&w=100",
+         
+         "Equipe2" :"Real Madrid",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=100&w=100",
+         
+         "Heure" :"20:00",
+         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
+         "Equipe1" :"Arsenal",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=100&w=100",
+         
+         "Equipe2" :"Fiorentina",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/109.png&h=100&w=100",
          
          "Heure" :"20:00",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
