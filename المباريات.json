@@ -1,7 +1,7 @@
 {  
    "Matchs":[  
       {
-         "LIVE" :"n",
+         "LIVE" :"y",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Juventus",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png&h=100&w=100",
@@ -13,7 +13,7 @@
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       },
       {
-         "LIVE" :"n",
+         "LIVE" :"m",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Bayern Munich",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=100&w=100",
@@ -25,7 +25,7 @@
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       },
       {
-         "LIVE" :"n",
+         "LIVE" :"m",
          "Url" :"http://95.170.215.101:80/hls/Bein-Max-HD1-MCR.m3u8",
          "Equipe1" :"Arsenal",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=100&w=100",
