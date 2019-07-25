@@ -36,5 +36,113 @@
          "Heure" :"02:00",
          "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       }
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Real Madrid",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=200&w=200",
+         
+         "Equipe2" :"Arsenal",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=200&w=200",
+         
+         "Heure" :"00:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Bayern Munich",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=200&w=200",
+         
+         "Equipe2" :"AC Milan",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Guadalajara",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/219.png&h=200&w=200",
+         
+         "Equipe2" :"Atletico Madrid",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Real Madrid",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=200&w=200",
+         
+         "Equipe2" :"Arsenal",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=200&w=200",
+         
+         "Heure" :"00:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Bayern Munich",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=200&w=200",
+         
+         "Equipe2" :"AC Milan",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Guadalajara",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/219.png&h=200&w=200",
+         
+         "Equipe2" :"Atletico Madrid",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Real Madrid",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=200&w=200",
+         
+         "Equipe2" :"Arsenal",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=200&w=200",
+         
+         "Heure" :"00:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Bayern Munich",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=200&w=200",
+         
+         "Equipe2" :"AC Milan",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Guadalajara",
+         "Equipe1_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/219.png&h=200&w=200",
+         
+         "Equipe2" :"Atletico Madrid",
+         "Equipe2_Logo" :"http://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=200&w=200",
+         
+         "Heure" :"02:00",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      }
    ]
 }
