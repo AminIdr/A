@@ -2,50 +2,50 @@
    "Matchs":[  
       {
          "LIVE" :"n",
-         "Url" :"https://kerenua.xyz/zine/roxy/index.php?q=oKesqZ9fZZqok5HDotDEr5mrY2bPx2banJyZo5WXYGZnZGxulWJnZ5_Slw",
-         "Equipe1" :"Real Madrid",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=100&w=100",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://tv.b4ucast.me/tv/XXi3JB0S8v20180321/chunklist_w1686028604_tkaGxzZW5kdGltZT0xNTY0MjYxMDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZjF1bUljbmRGUTFXSnJoY1NEZ1ByQk1OZC1TNWVKakZYS1JnNUtBblc2UT0=.m3u8",
+         "Equipe1" :"Reading",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/338.png&h=100&w=100",
          
-         "Equipe2" :"Atletico Madrid",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&h=100&w=100",
+         "Equipe2" :"Chelsea",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=100&w=100",
          
-         "Heure" :"01:00",
+         "Heure" :"4:00 PM",
+         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://tv.b4ucast.me/tv/XXi3JB0S8v20180321/chunklist_w1686028604_tkaGxzZW5kdGltZT0xNTY0MjYxMDgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZjF1bUljbmRGUTFXSnJoY1NEZ1ByQk1OZC1TNWVKakZYS1JnNUtBblc2UT0=.m3u8",
+         "Equipe1" :"Arsenal",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=100&w=100",
+         
+         "Equipe2" :"Lyon",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png&h=100&w=100",
+         
+         "Heure" :"4:15 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       },
       {
          "LIVE" :"n",
          "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Vissel Kobe",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7477.png&h=100&w=100",
+         "Equipe1" :"Liverpool",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=100&w=100",
          
-         "Equipe2" :"Barcelona",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&h=100&w=100",
+         "Equipe2" :"Napoli",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/114.png&h=100&w=100",
          
-         "Heure" :"10:00",
+         "Heure" :"6:00 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       },
       {
          "LIVE" :"n",
-         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Yokohama F. Marinos",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7116.png&h=100&w=100",
+         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://187.178.30.73:9981/stream/channelid/747569857",
+         "Equipe1" :"AC Milan",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=100&w=100",
          
-         "Equipe2" :"Manchester City",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&h=100&w=100",
+         "Equipe2" :"Benfica",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1929.png&h=100&w=100",
          
-         "Heure" :"23:00",
-         "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
-      },
-      {
-         "LIVE" :"n",
-         "Url" :"https://kerenua.xyz/zine/mini/miniProxy.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"PSG",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=100&w=100",
-         
-         "Equipe2" :"Inter Milan",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/110.png&h=100&w=100",
-         
-         "Heure" :"12:30",
+         "Heure" :"9:05 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
       }
    ]
