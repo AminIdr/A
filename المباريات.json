@@ -2,7 +2,7 @@
    "Matchs":[  
       {
          "LIVE" :"n",
-         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD6.m3u8",
          "Equipe1" :"PSG",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=100&w=100",
          
@@ -14,7 +14,7 @@
       },
       {
          "LIVE" :"n",
-         "Url" :"https://www.daciana.eu/index.php/http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8",
+         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
          "Equipe1" :"Real Madrid",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&h=100&w=100",
          
@@ -26,7 +26,7 @@
       },
       {
          "LIVE" :"n",
-         "Url" :"",
+         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD6.m3u8",
          "Equipe1" :"Kristiansund BK",
          "Equipe1_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100",
          
