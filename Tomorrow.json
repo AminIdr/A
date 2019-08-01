@@ -3,47 +3,47 @@
       {
          "LIVE" :"n",
          "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Liverpool",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=100&w=100",
+         "Equipe1" :"PSG",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&h=100&w=100",
          
-         "Equipe2" :"Lyon",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png&h=100&w=100",
+         "Equipe2" :"Stade Rennes",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/169.png&h=100&w=100",
          
-         "Heure" :"7:00 PM",
+         "Heure" :"1:30 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
       },
       {
          "LIVE" :"n",
          "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"FC Salzburg",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2790.png&h=100&w=100",
+         "Equipe1" :"Borussia Monchengladbach",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/268.png&h=100&w=100",
          
          "Equipe2" :"Chelsea",
          "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=100&w=100",
          
-         "Heure" :"8:00 PM",
+         "Heure" :"5:00 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
       },
       {
          "LIVE" :"n",
          "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Angers",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7868.png&h=100&w=100",
+         "Equipe1" :"Manchester United",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=100&w=100",
          
-         "Equipe2" :"Arsenal",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=100&w=100",
+         "Equipe2" :"AC Milan",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/103.png&h=100&w=100",
          
-         "Heure" :"8:30 PM",
+         "Heure" :"6:35 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
       },
       {
          "LIVE" :"n",
          "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Perugia",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/116.png&h=100&w=100",
+         "Equipe1" :"Borussia Dortmund",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/124.png&h=100&w=100",
          
-         "Equipe2" :"AS Roma",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&h=100&w=100",
+         "Equipe2" :"Bayern Munich",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&h=100&w=100",
          
          "Heure" :"8:30 PM",
          "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
