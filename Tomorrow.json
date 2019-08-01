@@ -1,0 +1,52 @@
+{  
+   "Matchs":[  
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Liverpool",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=100&w=100",
+         
+         "Equipe2" :"Lyon",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/167.png&h=100&w=100",
+         
+         "Heure" :"7:00 PM",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"FC Salzburg",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2790.png&h=100&w=100",
+         
+         "Equipe2" :"Chelsea",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=100&w=100",
+         
+         "Heure" :"8:00 PM",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Angers",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7868.png&h=100&w=100",
+         
+         "Equipe2" :"Arsenal",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&h=100&w=100",
+         
+         "Heure" :"8:30 PM",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      },
+      {
+         "LIVE" :"n",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Equipe1" :"Perugia",
+         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/116.png&h=100&w=100",
+         
+         "Equipe2" :"AS Roma",
+         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/104.png&h=100&w=100",
+         
+         "Heure" :"8:30 PM",
+         "Competition" :"http://raw.githubusercontent.com/AminIdr/Testt/master/FRIENDLY.png"
+      }
+   ]
+}
