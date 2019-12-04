@@ -2,7 +2,7 @@
    "Today":[  
       {
          "LIVE" :"n",
-         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
          "Equipe1" :"Chelsea",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=100&w=100",
          
@@ -14,7 +14,7 @@
       },
       {
          "LIVE" :"n",
-         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.120/hls/m3u8/Chelsea-TV.m3u8",
+         "Url" :"http://95.170.215.120/hls/m3u8/Chelsea-TV.m3u8",
          "Equipe1" :"Manchester United",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=100&w=100",
          
@@ -26,7 +26,7 @@
       },
       {
          "LIVE" :"n",
-         "Url" :"https://www.daciana.eu/index.php/http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
+         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
          "Equipe1" :"Liverpool",
          "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=100&w=100",
          
