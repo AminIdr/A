@@ -1,40 +1,64 @@
 {  
    "Today":[  
       {
-         "LIVE" :"n",
-         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Chelsea",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=100&w=100",
+         "Equipe1" :"برشلونة",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
          
-         "Equipe2" :"Aston Villa",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/362.png&h=100&w=100",
+         "Equipe2" :"غرناطة",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_48x48.png",
          
-         "Heure" :"8:30 PM",
-         "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
+         "Heure" :"21:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
       },
       {
-         "LIVE" :"n",
-         "Url" :"http://95.170.215.120/hls/m3u8/Chelsea-TV.m3u8",
-         "Equipe1" :"Manchester United",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&h=100&w=100",
+         "Equipe1" :"إبيزا",
+         "Equipe1_Logo" :"https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
          
-         "Equipe2" :"Tottenham Hotspur",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&h=100&w=100",
+         "Equipe2" :"برشلونة",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
          
-         "Heure" :"8:30 PM",
-         "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
+         "Heure" :"19:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/6/6c/Copa_del_Rey_logo_since_2012.png"
       },
       {
-         "LIVE" :"n",
-         "Url" :"http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8",
-         "Equipe1" :"Liverpool",
-         "Equipe1_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&h=100&w=100",
+         "Equipe1" :"برشلونة",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
          
-         "Equipe2" :"Everton",
-         "Equipe2_Logo" :"https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&h=100&w=100",
+         "Equipe2" :"غرناطة",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_48x48.png",
          
-         "Heure" :"9:15 PM",
-         "Competition" :"https://raw.githubusercontent.com/AminIdr/A/master/FRIENDLY.png"
+         "Heure" :"21:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
+      },
+      {
+         "Equipe1" :"فالنسيا",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_48x48.png",
+         
+         "Equipe2" :"برشلونة",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
+         
+         "Heure" :"16:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
+      },
+      {
+         "Equipe1" :"برشلونة",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
+         
+         "Equipe2" :"ليفانتي",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/SQB-jlVosxVV1Ce79FhbOA_48x48.png",
+         
+         "Heure" :"21:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
+      },
+      {
+         "Equipe1" :"ريال بيتيس",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_48x48.png",
+         
+         "Equipe2" :"برشلونة",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
+         
+         "Heure" :"21:00",
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
       }
    ]
 }
