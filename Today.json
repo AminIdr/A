@@ -86,7 +86,7 @@
          
          "Date" :"25/02",
          "Heure" :"21:00",
-         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&transparent=true&w=30&h=30"
+         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&transparent=true&w=80&h=80"
       },
       {
          "Equipe1" :"ريال مدريد",
@@ -130,7 +130,7 @@
          
          "Date" :"18/03",
          "Heure" :"21:00",
-         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&transparent=true&w=80&h=80"
+         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&transparent=true&w=80&h=80"
       }
    ]
 }
