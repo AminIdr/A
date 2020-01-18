@@ -51,8 +51,30 @@
          "Equipe2" :"برشلونة",
          "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=40&h=40",
          
-         "Date" :"16/02",
+         "Date" :"09/02",
          "Heure" :"21:00",
+         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&transparent=true&w=40&h=40"
+      },
+      {
+         "Equipe1" :"برشلونة",
+         "Equipe1_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=40&h=40",
+         
+         "Equipe2" :"خيتافي",
+         "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2922.png&w=40&h=40",
+         
+         "Date" :"16/02",
+         "Heure" :"--:--",
+         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&transparent=true&w=40&h=40"
+      },
+      {
+         "Equipe1" :"برشلونة",
+         "Equipe1_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=40&h=40",
+         
+         "Equipe2" :"إيبار",
+         "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3752.png&w=40&h=40",
+         
+         "Date" :"23/02",
+         "Heure" :"--:--",
          "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&transparent=true&w=40&h=40"
       }
    ]
