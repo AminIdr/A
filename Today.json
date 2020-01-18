@@ -2,14 +2,14 @@
    "Today":[  
       {
          "Equipe1" :"برشلونة",
-         "Equipe1_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&h=50",
+         "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png",
          
          "Equipe2" :"غرناطة",
-         "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3747.png&h=50",
+         "Equipe2_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_48x48.png",
          
          "Date" :"19/01",
          "Heure" :"21:00",
-         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3747.png&h=50"
+         "Competition" :"https://upload.wikimedia.org/wikipedia/fr/2/23/Logo_La_Liga.png"
       }
    ]
 }
