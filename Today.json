@@ -1,17 +1,6 @@
 {  
    "Today":[  
       {
-         "Equipe1" :"برشلونة",
-         "Equipe1_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=80&h=80",
-         
-         "Equipe2" :"غرناطة",
-         "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3747.png&w=80&h=80",
-         
-         "Date" :"19/01",
-         "Heure" :"21:00",
-         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&transparent=true&w=80&h=80"
-      },
-      {
          "Equipe1" :"إبيزا",
          "Equipe1_Logo" :"https://secure.espncdn.com/combiner/i?img=/i/teamlogos/default-team-logo-500.png&h=244&w=244",
          
