@@ -1,16 +1,5 @@
 {  
-   "Today":[  
-      {
-         "Equipe1" :"إبيزا",
-         "Equipe1_Logo" :"https://secure.espncdn.com/combiner/i?img=/i/teamlogos/default-team-logo-500.png&h=244&w=244",
-         
-         "Equipe2" :"برشلونة",
-         "Equipe2_Logo" :"https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=100&h=100",
-         
-         "Date" :"جارية حالياً",
-         "Heure" :"1-0",
-         "Competition" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/80.png&transparent=true&w=100&h=100"
-      },
+   "Today":[ 
       {
          "Equipe1" :"فالنسيا",
          "Equipe1_Logo" :"https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_48x48.png",
